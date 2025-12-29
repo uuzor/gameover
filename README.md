@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🏰 Tower Defense GameFi
+# ⚽ VIRTUALZ - Premier League Virtual Betting Platform
 
-### *A Revolutionary Blockchain Tower Defense Game on Sui Network*
+### *Powered by Randomness, Driven by Excitement*
 
-[![Sui Network](https://img.shields.io/badge/Sui-Network-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)](https://sui.io)
+[![OneChain](https://img.shields.io/badge/OneChain-Blockchain-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)](https://onelabs.cc)
 [![Move](https://img.shields.io/badge/Move-Smart%20Contract-FF5733?style=for-the-badge)](https://docs.sui.io/build/move)
 [![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-[🎮 Play Now](https://tower-crash-fnix.vercel.app) • [📹 Watch Demo](https://www.youtube.com/watch?v=XD25M8ozAd8) • [📖 Documentation](#-game-features) • [🚀 Quick Start](#-quick-start)
+[🎮 Play Now](#) • [📖 Documentation](#-game-features) • [🚀 Quick Start](#-quick-start)
 
 </div>
 
@@ -17,134 +17,174 @@
 
 ## 🌟 Overview
 
-**Tower Defense GameFi** is a fully on-chain tower defense game that combines classic gaming mechanics with blockchain technology. Players can mint NFT towers and monsters, engage in strategic gameplay, create challenges, trade assets on the marketplace, and earn real rewards!
+**VIRTUALZ** is a revolutionary Premier League virtual betting platform built on OneChain. Experience the thrill of betting on virtual matches with provably fair randomness, multi-bet accumulators, and seasonal competitions - all powered by blockchain technology!
 
 ### ✨ Key Highlights
 
-- 🎮 **Full-Featured Tower Defense** - Classic gameplay with 5 progressive waves
-- 🗼 **NFT Tower System** - Unique towers with randomized stats and 4 rarity tiers
-- 👹 **Monster NFTs** - Create and use monsters for custom challenges
-- 💰 **Play-to-Earn** - Earn NFT rewards based on performance
-- 🏪 **P2P Marketplace** - Trade towers directly with other players
-- ⚔️ **Challenge Mode** - Create and participate in player-made challenges
-- 🎵 **Immersive Experience** - Background music and sound effects
-- 📱 **Responsive Design** - Play on desktop or mobile devices
+- ⚽ **20 Premier League Teams** - All your favorite teams in virtual action
+- 🎲 **Provably Fair Randomness** - Transparent match generation and scoring
+- 💰 **Multi-Bet System** - High-risk, high-reward accumulator bets
+- 🏆 **Seasonal Competition** - 36 rounds per season with leaderboards
+- 💎 **$LEAGUE Token** - Platform currency for betting
+- 🎁 **30% Early User Rewards** - Share in platform earnings
+- 🏅 **Season Winner Prediction** - Free predictions for 2% prize pool
+- 📱 **Responsive Design** - Play on desktop or mobile
 
 ---
 
 ## 🎮 Game Features
 
-<table>
-<tr>
-<td width="50%">
+### ⚽ Virtual Match System
 
-### � Towetr NFT System
+**Continuous Gameplay**
+- 🕐 **10 Matches Every 15 Minutes** - Non-stop action
+- 🎲 **Random Team Matching** - Unpredictable matchups
+- 📊 **Random Score Generation** - Provably fair results (0-5 goals)
+- ⚡ **Real-time Updates** - Live scores and countdowns
+- 🔄 **Automated System** - Off-chain node manages rounds
 
-**Lucky Draw Mechanism**
-- 💎 Pay **1 GAME** to mint a random tower
-- 🎲 Provably fair randomness using Sui's UID
-- 📊 4 rarity tiers with different drop rates
-- ⚡ Instant minting and ownership
-
-**Tower Attributes**
-- ⚔️ **Damage**: Attack power (15-68)
-- 🎯 **Range**: Attack distance (100-160)
-- ⏱️ **Fire Rate**: Attack speed (700-1000ms)
-- 🌈 **Rarity**: Affects all stats
-
-**Rarity Distribution**
-| Rarity | Drop Rate | Power Level |
-|--------|-----------|-------------|
-| ⚪ Common | 50% | ⭐ |
-| 🔵 Rare | 30% | ⭐⭐ |
-| 🟣 Epic | 15% | ⭐⭐⭐ |
-| 🟡 Legendary | 5% | ⭐⭐⭐⭐ |
-
-</td>
-<td width="50%">
-
-### 👹 Monster NFT System
-
-**Monster Draw**
-- 🎃 Pay **1 GAME** to mint a random monster
-- 🎭 3 unique monster types
-- 💪 Varying stats based on type
-- 🎯 Use for creating challenges
-
-**Monster Types**
-- 👹 **Normal**: Balanced HP and speed
-- ⚡ **Fast**: High speed, lower HP
-- 🛡️ **Tank**: High HP, slower speed
-
-**Monster Attributes**
-- ❤️ **HP**: Health points
-- 🏃 **Speed**: Movement speed
-- 🎨 **Type**: Determines behavior
-- 💎 **Rarity**: Common to Legendary
-
-</td>
-</tr>
-</table>
-
-### 🎯 Tower Defense Gameplay
-
-**Game Flow**
-1. 💰 Pay **0.5 GAME** to start a game session
-2. 🗼 Select a tower from your inventory
-3. 🎮 Place towers strategically on the map
-4. 👾 Defend against 5 waves of monsters
-5. 🏆 Earn NFT rewards based on performance
-
-**Wave System**
-- 🌊 **5 Progressive Waves** - Increasing difficulty
-- 👹 **Multiple Monster Types** - Different speeds and HP
-- 💰 **Dynamic Rewards** - Better performance = better rewards
-- ⏱️ **Real-time Combat** - Fast-paced action
-
-**Reward Structure**
+**Match Outcomes**
 ```
-Wave 2 Cleared → 20% NFT drop chance (Common-Rare)
-Wave 3 Cleared → 30% NFT drop chance (Rare-Epic)
-Wave 4 Cleared → 50% NFT drop chance (Rare-Legendary)
-Wave 5 Cleared → 80% NFT drop chance (Epic-Legendary)
+Home Win (1) - Home team scores > Away team
+Away Win (2) - Away team scores > Home team
+Draw (X)     - Equal scores
 ```
 
-### 🏪 Marketplace
+### 💰 Betting System
 
-**Trading Features**
-- 📝 **List Towers**: Set your own price in GAME
-- 🛒 **Buy Towers**: Purchase from other players
-- ❌ **Cancel Listings**: Remove anytime before sale
-- 💸 **Direct P2P**: No platform fees
-- 🔍 **Browse Inventory**: Filter by rarity and stats
+**Single Bets**
+- 💵 Bet on individual match outcomes
+- 📈 **2x Multiplier** on stake
+- ✅ Simple and straightforward
 
-**Market Dynamics**
-- Real-time price discovery
-- Transparent transaction history
-- Secure on-chain settlements
-- Instant ownership transfer
+**Multi-Bet Accumulators**
+- 🎯 Combine multiple predictions in one bet slip
+- 🚀 **Exponential Multiplier**: 2^n (where n = number of predictions)
+- ⚠️ **All predictions must be correct** to win
+- 💎 Higher risk = Higher reward
 
-### ⚔️ Challenge System
+**Multiplier Examples**
+| Predictions | Multiplier | Stake 1 LEAGUE | Potential Win |
+|------------|------------|----------------|---------------|
+| 1 match    | 2x         | 1 LEAGUE       | 2 LEAGUE      |
+| 2 matches  | 4x         | 1 LEAGUE       | 4 LEAGUE      |
+| 3 matches  | 8x         | 1 LEAGUE       | 8 LEAGUE      |
+| 5 matches  | 32x        | 1 LEAGUE       | 32 LEAGUE     |
+| 10 matches | 1024x      | 1 LEAGUE       | 1024 LEAGUE   |
 
-**Create Challenges**
-- 👹 Use your Monster NFT as the boss
-- 💰 Set initial prize pool
-- 🎫 Define entry fee
-- 👥 Set maximum winners
-- 📊 Track challenge statistics
+### 🏆 Seasonal System
 
-**Play Challenges**
-- 🎮 Pay entry fee to participate
-- 🗼 Use your towers to defeat the monster
-- 🏆 Winners share the prize pool
-- 📈 Earn reputation and rewards
+**Season Structure**
+- 📅 **36 Rounds per Season** - Each round lasts 15 minutes
+- 🎯 **Continuous Play** - Seamless round transitions
+- 📊 **League Table** - Teams earn points (Win: 3pts, Draw: 1pt)
+- 👑 **Season Winner** - Team with most points at season end
 
-**Challenge Economics**
+**Season Winner Prediction**
+- 🆓 **Free to Enter** - No cost to predict
+- 🎰 **2% Prize Pool** - Share of total season volume
+- 📈 **Early Prediction Bonus** - Predict before season ends
+- 💰 **Shared Rewards** - Winners split the prize pool
+
+### 💎 $LEAGUE Token
+
+**Token Utility**
+- 🎫 **Betting Currency** - Place bets with LEAGUE or native token
+- 💸 **Platform Earnings** - Earn from successful bets
+- 🎁 **Reward Distribution** - Receive early user bonuses
+- 🏆 **Season Prizes** - Win from predictions
+
+**Revenue Distribution**
 ```
-Entry Fee × Players = Total Pool
-Prize Pool = Initial Prize + Entry Fees
-Winners Share = Total Pool ÷ Number of Winners
+Bet Placed → 30% Early User Rewards Pool
+          → 70% Treasury (for payouts)
+
+Season Volume → 2% Season Winner Pool
+             → 98% Treasury
 ```
+
+### 🎁 Early User Rewards
+
+**30% Reward Pool**
+- 💰 **30% of all bets** go to early user rewards
+- 🎯 Active bettors receive bonus rewards
+- 📈 Additional 10% bonus on winning payouts
+- ⚡ Automatic distribution on bet claims
+
+---
+
+## 🏗️ Smart Contract Architecture
+
+### Core Components
+
+**IVirtualz Module** (`virtualz::ivirtualz`)
+
+**Main Structs:**
+- `GameState` - Global platform state and treasury
+- `Season` - Seasonal data with team points
+- `Round` - 10 matches per round with results
+- `Match` - Individual match data
+- `BetSlip` - User bet with predictions
+- `SeasonWinnerPrediction` - Free season prediction
+- `TokenTreasury` - LEAGUE token minting
+
+**Key Functions:**
+
+*For Players:*
+```move
+claim_faucet() - Get 100 LEAGUE tokens
+place_bet() - Place single or multi-bet
+claim_bet() - Claim winnings from winning bets
+predict_season_winner() - Free season prediction
+claim_season_prediction() - Claim season prize
+```
+
+*For Operators (Off-chain Node):*
+```move
+start_season() - Initialize new season
+start_round() - Begin new round with random matches
+finalize_round() - Generate scores and update points
+```
+
+*View Functions (Frontend-Friendly):*
+```move
+get_season_info() - Season data
+get_round_info() - Round details
+get_all_matches() - All matches in round
+get_team_points() - Team standings
+get_game_stats() - Platform statistics
+get_team_name() - Team information
+```
+
+---
+
+## 📊 Game Economics
+
+### Revenue Model
+
+**Income Streams:**
+1. 📈 **Betting Volume** - All bets contribute to treasury
+2. 💰 **Losing Bets** - Unsuccessful bets stay in treasury
+3. 🔄 **Continuous Rounds** - 96 rounds per day (15min each)
+
+**Payout Structure:**
+1. ✅ **Winning Bets** - Paid from treasury
+2. 🎁 **Early User Bonus** - 10% extra from reward pool
+3. 🏆 **Season Prizes** - 2% of season volume
+
+### Sustainability
+
+**Treasury Management:**
+- Losing bets fund winning payouts
+- 30% dedicated to player rewards
+- Balanced odds (2.00 across all outcomes)
+- House edge from multi-bet variance
+
+**Player Benefits:**
+- Fair 2x odds on single bets
+- Exponential multi-bet multipliers
+- Early user reward sharing
+- Free season predictions
 
 ---
 
@@ -152,49 +192,44 @@ Winners Share = Total Pool ÷ Number of Winners
 
 ### 📋 Prerequisites
 
-Before you begin, ensure you have the following installed:
-
-- ✅ [Sui CLI](https://docs.sui.io/build/install) - For smart contract deployment
-- ✅ [Node.js 18+](https://nodejs.org/) - For running the frontend
-- ✅ [Git](https://git-scm.com/) - For cloning the repository
-- ✅ Sui Wallet Extension - [Sui Wallet](https://chrome.google.com/webstore/detail/sui-wallet) or [OneWallet](https://onewallet.app/)
-- ✅ Testnet OCT - Get free tokens from [OneChain Faucet](https://faucet.onelabs.cc/)
-- ✅ GAME Tokens - Claim free GAME tokens from the in-game faucet (10 GAME per claim)
+- ✅ [OneChain Wallet](https://onewallet.app/) or Sui Wallet
+- ✅ Testnet OCT from [OneChain Faucet](https://faucet.onelabs.cc/)
+- ✅ Node.js 18+ (for local development)
+- ✅ Sui CLI (for contract deployment)
 
 ### 🎮 Play Now (Easiest)
 
-Just visit our deployed version:
-👉 **[https://tower-crash-fnix.vercel.app](https://tower-crash-fnix.vercel.app)**
-
-Watch the demo video:
-📹 **[YouTube Demo](https://www.youtube.com/watch?v=XD25M8ozAd8)**
-
-1. Connect your Sui wallet (OneWallet recommended)
-2. Get testnet OCT from the OneChain faucet (for gas fees)
-3. Claim free GAME tokens from the in-game faucet
-4. Start playing!
+1. **Connect Wallet** - Use OneWallet or Sui Wallet
+2. **Get Test OCT** - From OneChain faucet (for gas)
+3. **Claim LEAGUE** - Click "Get 100 LEAGUE" in app
+4. **Place Bets** - Select matches and bet!
 
 ### 💻 Local Development
 
-#### Step 1: Clone the Repository
+#### Step 1: Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/tower-defense-gamefi.git
-cd tower-defense-gamefi
+git clone <your-repo-url>
+cd gameover
+
+# Install frontend dependencies
+cd frontend
+npm install
 ```
 
 #### Step 2: Deploy Smart Contract
 
 ```bash
-# Build the Move package
+# Build Move package
 sui move build
 
-# Deploy to testnet
+# Deploy to OneChain testnet
 sui client publish --gas-budget 100000000
 
-# 📝 Save these values from the output:
+# Save these values:
 # - Package ID
 # - GameState Object ID
+# - TokenTreasury Object ID
 ```
 
 #### Step 3: Configure Frontend
@@ -202,15 +237,13 @@ sui client publish --gas-budget 100000000
 ```bash
 cd frontend
 
-# Install dependencies
-npm install
-
 # Create environment file
 cp .env.example .env.local
 
-# Edit .env.local with your values:
-# NEXT_PUBLIC_PACKAGE_ID=your_package_id_here
-# NEXT_PUBLIC_GAME_STATE_ID=your_game_state_id_here
+# Edit .env.local:
+NEXT_PUBLIC_PACKAGE_ID=<your_package_id>
+NEXT_PUBLIC_GAME_STATE_ID=<your_game_state_id>
+NEXT_PUBLIC_TOKEN_TREASURY_ID=<your_token_treasury_id>
 ```
 
 #### Step 4: Run Development Server
@@ -219,349 +252,205 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser!
+Open [http://localhost:3000](http://localhost:3000) to play!
 
-### 🔧 Build for Production
-
-```bash
-# Build the frontend
-npm run build
-
-# Start production server
-npm start
-```
+---
 
 ## 📁 Project Structure
 
 ```
-tower-defense-gamefi/
+gameover/
 ├── sources/
-│   └── tower_defense.move      # Main smart contract
+│   └── virtualz.move           # Main smart contract
 ├── frontend/
 │   ├── app/
-│   │   ├── page.tsx            # Home page (mint & play)
-│   │   ├── play/               # Game page
-│   │   ├── market/             # Marketplace
-│   │   ├── challenges/         # Monster & challenges
-│   │   └── history/            # Game history
+│   │   ├── page.tsx            # Main betting interface
+│   │   └── layout.tsx          # App layout
 │   ├── lib/
-│   │   ├── contracts.ts        # Contract interactions
-│   │   └── constants.ts        # Configuration
+│   │   ├── virtualz-constants.ts   # Game constants & teams
+│   │   └── virtualz-contracts.ts   # Contract interactions
 │   └── package.json
 ├── Move.toml                   # Move package config
-├── deploy.bat                  # Deployment script
 └── README.md
 ```
 
+---
+
 ## 🎯 How to Play
 
-1. **Connect Wallet** - Connect your Sui wallet (Sui Wallet, OneWallet, etc.)
-2. **Claim GAME Tokens** - Get free GAME tokens from the faucet (10 GAME)
-3. **Mint Tower** - Pay 1 GAME to get a random tower NFT
-4. **Select Tower** - Choose a tower from your inventory
-5. **Play Game** - Pay 0.5 GAME to start the tower defense game
-6. **Earn Rewards** - Clear waves to earn more tower NFTs!
-7. **Trade** - List your towers on the marketplace or buy from others
+### 1. Get LEAGUE Tokens
+- Connect your wallet
+- Click "Get 100 LEAGUE" to claim from faucet
+- Check your balance
 
-## 💎 NFT Rarity System
+### 2. Place Bets
 
-| Rarity | Drop Rate | Damage Range | Color |
-|--------|-----------|--------------|-------|
-| ⚪ Common | 50% | 15-23 | Gray |
-| 🔵 Rare | 30% | 25-33 | Blue |
-| 🟣 Epic | 15% | 40-48 | Purple |
-| 🟡 Legendary | 5% | 60-68 | Yellow |
+**Single Bet:**
+1. Click on odds (1, X, or 2) for any match
+2. Enter stake amount
+3. Click "Place Bet"
+4. Potential payout: Stake × 2
 
-## 🔧 Smart Contract Functions
+**Multi-Bet (Accumulator):**
+1. Select outcomes for multiple matches
+2. See multiplier increase (2^n)
+3. Enter stake amount
+4. Click "Place Bet"
+5. All predictions must be correct to win!
 
-### Player Functions
-- `mint_tower()` - Mint a random tower NFT
-- `mint_monster()` - Mint a random monster NFT
-- `play_and_submit()` - Play game and submit results
-- `list_tower()` - List tower for sale
-- `buy_tower()` - Buy a listed tower
-- `cancel_listing()` - Cancel your listing
-- `create_challenge()` - Create a challenge with monster
-- `play_challenge()` - Participate in a challenge
-- `cancel_challenge()` - Cancel your challenge
+### 3. Wait for Round to Finish
+- Watch timer countdown (15 minutes)
+- Matches finalize automatically
+- Scores are generated randomly
 
-### View Functions
-- `get_tower_stats()` - Get tower attributes
-- `get_treasury_balance()` - View game treasury
+### 4. Claim Winnings
+- Go to "My Bets" section
+- Click "Claim" on winning bets
+- Receive payout + early user bonus!
+
+### 5. Predict Season Winner
+- View league table
+- Choose team likely to win season
+- Free entry - just pay gas
+- Win share of 2% season prize pool
+
+---
+
+## 🏅 Premier League Teams
+
+<table>
+<tr>
+<td width="50%">
+
+**Classic Teams**
+1. 🔴 Manchester United
+2. 🔴 Liverpool
+3. 🔵 Manchester City
+4. 🔴 Arsenal
+5. 🔵 Chelsea
+6. ⚪ Tottenham
+7. ⚫ Newcastle
+8. 🟣 Aston Villa
+9. 🔵 Brighton
+10. 🔴 West Ham
+
+</td>
+<td width="50%">
+
+**More Teams**
+11. 🔵 Everton
+12. 🔵 Leicester
+13. 🟡 Wolves
+14. 🔵 Crystal Palace
+15. ⚫ Fulham
+16. 🔴 Brentford
+17. 🔴 Bournemouth
+18. 🔴 Nottingham Forest
+19. 🟠 Luton Town
+20. 🟣 Burnley
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
 ### ⛓️ Blockchain Layer
-
-- **[Sui Network](https://sui.io)** - High-performance L1 blockchain
-- **[Move Language](https://docs.sui.io/build/move)** - Secure smart contract language
-- **Sui Framework** - Standard library and utilities
-- **Object-Centric Model** - Efficient asset management
-- **Parallel Execution** - Fast transaction processing
+- **[OneChain](https://onelabs.cc)** - High-performance Sui-based blockchain
+- **[Move Language](https://docs.sui.io/build/move)** - Secure smart contracts
+- **Provably Fair Randomness** - On-chain random generation
 
 ### 🎨 Frontend Stack
-
-- **[Next.js 14](https://nextjs.org)** - React framework with App Router
-- **[React 18](https://react.dev)** - UI library with latest features
-- **[TypeScript](https://www.typescriptlang.org)** - Type-safe development
-- **[Tailwind CSS](https://tailwindcss.com)** - Utility-first styling
-- **[@onelabs/dapp-kit](https://sdk.mystenlabs.com/dapp-kit)** - Sui wallet integration
-- **[@tanstack/react-query](https://tanstack.com/query)** - Data fetching and caching
-
-</td>
-<td width="50%">
-
-### 🔧 Development Tools
-
-- **Sui CLI** - Contract deployment and testing
-- **Vercel** - Frontend hosting and deployment
-- **ESLint** - Code quality and consistency
-- **Prettier** - Code formatting
-
-### 🎮 Game Engine
-
-- **HTML5 Canvas** - 2D rendering
-- **Custom Game Loop** - 60 FPS gameplay
-- **Collision Detection** - Precise hit detection
-- **Pathfinding** - Monster movement AI
-- **Audio System** - Background music and SFX
-
-### 📦 Key Dependencies
-
-```json
-{
-  "@onelabs/sui": "^1.0.0",
-  "@onelabs/dapp-kit": "^0.14.0",
-  "next": "14.2.0",
-  "react": "^18.3.0",
-  "typescript": "^5.0.0"
-}
-```
-
-</td>
-</tr>
-</table>
+- **[Next.js 14](https://nextjs.org)** - React framework
+- **[TypeScript](https://typescriptlang.org)** - Type safety
+- **[Tailwind CSS](https://tailwindcss.com)** - Styling
+- **[@onelabs/dapp-kit](https://sdk.onelabs.cc)** - Wallet integration
+- **[@tanstack/react-query](https://tanstack.com/query)** - Data management
 
 ---
 
-## 📊 Economic Model & Tokenomics
+## 🎲 Randomness & Fairness
 
-### 💰 Revenue Streams
+### Provably Fair System
 
-<table>
-<tr>
-<td width="33%">
-
-**🗼 Tower Minting**
-- Cost: **1 GAME**
-- Goes to: Game Treasury
-- Purpose: NFT creation
-- Frequency: Unlimited
-
-</td>
-<td width="33%">
-
-**👹 Monster Minting**
-- Cost: **1 GAME**
-- Goes to: Game Treasury
-- Purpose: Challenge creation
-- Frequency: Unlimited
-
-</td>
-<td width="33%">
-
-**🎮 Game Sessions**
-- Cost: **0.5 GAME**
-- Goes to: Reward Pool
-- Purpose: Play-to-earn
-- Frequency: Per game
-
-</td>
-</tr>
-</table>
-
-### 🔄 Economic Flow
-
-```
-Player Spending → Treasury → Reward Pool → Player Earnings
-     ↓              ↓            ↓              ↓
-  Minting      Development   NFT Drops    Marketplace
-  Gaming       Operations    Challenges   Trading
-```
-
-### 💎 Value Proposition
-
-**For Players:**
-- 🎮 Fun and engaging gameplay
-- 💰 Earn valuable NFTs
-- 📈 Trade for profit
-- 🏆 Compete in challenges
-
-**For Collectors:**
-- 🎨 Unique NFT assets
-- 📊 Rarity-based value
-- 💱 Liquid marketplace
-- 🔄 Utility in gameplay
-
-**For Investors:**
-- 🌱 Growing ecosystem
-- 📈 Deflationary mechanics
-- 🎯 Real utility
-- 🔒 On-chain security
-
-### 📈 Sustainability Model
-
-1. **Treasury Management**
-   - 60% → Reward pool for players
-   - 30% → Development and operations
-   - 10% → Marketing and growth
-
-2. **Deflationary Mechanics**
-   - NFTs burned in special events
-   - Limited edition releases
-   - Rarity-based scarcity
-
-3. **Growth Incentives**
-   - Referral rewards (coming soon)
-   - Tournament prizes
-   - Seasonal events
-
----
-
-## 🎮 Game Mechanics Deep Dive
-
-### 🎲 Provably Fair Randomness
-
-Our game uses Sui's built-in randomness for fair NFT generation:
-
+**Match Generation:**
 ```move
-// Pseudocode for random generation
-let random_value = object::uid_to_bytes(&tower.id);
-let rarity = calculate_rarity(random_value);
-let stats = generate_stats(rarity, random_value);
+// Random team pairing
+let random = pseudo_random(ctx);
+let home_team = (random % 20) + 1;
+let away_team = ((random / 100) % 20) + 1;
 ```
 
-**Key Features:**
-- ✅ On-chain randomness using object UID
-- ✅ Transparent and verifiable
-- ✅ Cannot be manipulated or predicted
-- ✅ Fair distribution across all players
-
-### ⚔️ Combat System
-
-**Tower Mechanics**
-- 🎯 **Auto-targeting**: Towers automatically target nearest monster
-- 💥 **Damage Calculation**: Base damage × rarity multiplier
-- 📏 **Range Check**: Monsters must be within tower range
-- ⏱️ **Fire Rate**: Cooldown between attacks
-
-**Monster Behavior**
-- 🛣️ **Pathfinding**: Follow predefined path to base
-- 💨 **Speed Variation**: Different types move at different speeds
-- ❤️ **Health System**: Take damage until HP reaches 0
-- 🎯 **Wave Spawning**: Timed spawns with increasing difficulty
-
-### 📊 Stat Calculation Formula
-
-```javascript
-// Rarity Multipliers
-Common:    1.0x base stats
-Rare:      1.5x base stats
-Epic:      2.5x base stats
-Legendary: 4.0x base stats
-
-// Example: Legendary Tower
-Damage:    15-23 base → 60-92 actual
-Range:     100-120 base → 400-480 actual
-Fire Rate: 700-1000ms (lower is better)
+**Score Generation:**
+```move
+// Random scores (0-5 goals each)
+let random = pseudo_random(ctx);
+let home_score = (random % 6) as u8;
+let away_score = ((random / 10) % 6) as u8;
 ```
 
-### 🏆 Reward Algorithm
-
-```
-Drop Chance = Base Rate × Wave Multiplier × Rarity Weight
-
-Wave 2: 20% × (Common: 70%, Rare: 30%)
-Wave 3: 30% × (Rare: 60%, Epic: 40%)
-Wave 4: 50% × (Rare: 40%, Epic: 40%, Legendary: 20%)
-Wave 5: 80% × (Epic: 50%, Legendary: 50%)
-```
-
-## 🔗 Deployed Contract
-
-**Network**: OneChain Testnet
-
-**Package ID**: `0x6ceb186a10c9bf808a36f68419e95d52a8bebb0069a7a3999e757e4ae6ba23af`
-
-**GameState**: `0xe68662ca211a2038ea937ed8f1388e94b8068bf9e02c5a0cbbf9483ec43d6c88`
-
-**TokenTreasury**: `0x3b7573cb72575e232f628f7a9dce92bdd0f4e662f1e1724be573dcd22133496a`
-
-**Token Type**: `GAME` (Tower Defense Token)
-
-**Explorer**: [View on OneChain Explorer](https://explorer.onelabs.cc/object/0x6ceb186a10c9bf808a36f68419e95d52a8bebb0069a7a3999e757e4ae6ba23af?network=testnet)
-
-**RPC**: https://rpc-testnet.onelabs.cc
+**Randomness Source:**
+- Uses Sui's object UID for entropy
+- On-chain and verifiable
+- Cannot be predicted or manipulated
+- Each transaction has unique randomness
 
 ---
 
-## 🎯 Roadmap
+## 📈 Roadmap
 
 ### ✅ Phase 1: Foundation (Completed)
-- [x] Smart contract development in Move
-- [x] Core tower defense gameplay
-- [x] NFT minting system (Towers & Monsters)
-- [x] Wallet integration
-- [x] Basic UI/UX design
+- [x] Smart contract development
+- [x] LEAGUE token implementation
+- [x] Random match & score generation
+- [x] Single bet system
+- [x] Multi-bet accumulator system
+- [x] Seasonal competition
+- [x] Season winner prediction
+- [x] Early user rewards (30%)
+- [x] Frontend betting interface
 
-### ✅ Phase 2: GameFi Features (Completed)
-- [x] Play-to-earn mechanics
-- [x] Reward distribution system
-- [x] P2P marketplace
-- [x] Challenge creation system
-- [x] Game history tracking
-- [x] Responsive design
+### 🚧 Phase 2: Enhancement (In Progress)
+- [ ] Deploy to OneChain Testnet
+- [ ] Off-chain operator node
+- [ ] Automated round management
+- [ ] Historical bet tracking
+- [ ] User statistics dashboard
+- [ ] Live leaderboards
 
-### 🚧 Phase 3: Enhancement (In Progress)
-- [x] Background music and SFX
-- [x] Visual polish and animations
-- [ ] Leaderboard system
-- [ ] Achievement badges
-- [ ] Player profiles
-- [ ] Social features
+### 🔮 Phase 3: Advanced Features (Q1 2025)
+- [ ] Live match animations
+- [ ] Sound effects and music
+- [ ] Push notifications
+- [ ] Bet history & analytics
+- [ ] Social sharing
+- [ ] Referral system
 
-### 🔮 Phase 4: Expansion (Q1 2025)
-- [ ] Guild system
-- [ ] Tournament mode
-- [ ] Referral program
-- [ ] Staking mechanism
-- [ ] Special event boxes
-- [ ] Limited edition NFTs
-
-### 🚀 Phase 5: Scale (Q2 2025)
-- [ ] Mobile app (iOS & Android)
-- [ ] Cross-chain bridge
+### 🚀 Phase 4: Scale (Q2 2025)
 - [ ] Mainnet deployment
+- [ ] Mobile app (iOS & Android)
+- [ ] Multiple leagues (La Liga, Serie A, etc.)
+- [ ] Tournament modes
+- [ ] VIP tiers
 - [ ] DAO governance
-- [ ] Community treasury
-- [ ] Partner integrations
 
-### 🌟 Future Vision
-- [ ] Metaverse integration
-- [ ] VR/AR support
-- [ ] AI-powered opponents
-- [ ] User-generated content
-- [ ] Esports tournaments
+---
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+### Development Guidelines
+
+1. Fork the repository
+2. Create feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open Pull Request
+
+---
 
 ## 📝 License
 
@@ -569,125 +458,46 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-### 🐛 Report Bugs
-Found a bug? [Open an issue](https://github.com/yourusername/tower-defense-gamefi/issues) with:
-- Clear description
-- Steps to reproduce
-- Expected vs actual behavior
-- Screenshots if applicable
-
-### 💡 Suggest Features
-Have an idea? We'd love to hear it!
-- Open a feature request
-- Describe the use case
-- Explain the benefits
-
-### 🔧 Submit Pull Requests
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### 📝 Improve Documentation
-- Fix typos
-- Add examples
-- Clarify instructions
-- Translate to other languages
-
----
-
-## 🏆 Built For
-
-<div align="center">
-
-### OneChain OneHack 2.0 - GameFi Track
-
-*Showcasing the power of Sui blockchain for gaming*
-
-</div>
-
----
-
-## � Importan&t Links
-
-<table>
-<tr>
-<td width="100%">
-
-### � Linkse
-
-- 🌐 **Website**: [tower-crash-fnix.vercel.app](https://tower-crash-fnix.vercel.app)
-- � **Diemo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=XD25M8ozAd8)
-- 📱 **GitHub**: [View source](https://github.com/yourusername/tower-defense-gamefi)
-- 🎮 **Play**: [Launch game](https://tower-crash-fnix.vercel.app)
-- 📊 **Explorer**: [View contract](https://suiscan.xyz/testnet/object/0x59eddd626b56b87be2673bdfa42d1cf5a2fa4703752781b9e2bb4ff623d218ec)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎊 Acknowledgments
-
-We'd like to thank:
-
-- 🙏 **[Sui Foundation](https://sui.io)** - For building an amazing blockchain platform
-- 💙 **[Mysten Labs](https://mystenlabs.com)** - For excellent developer tools and documentation
-- 🎯 **[OneChain](https://onechain.com)** - For hosting OneHack 2.0 and supporting innovation
-- 🎨 **Our Community** - For feedback, testing, and support
-- 🌟 **Open Source Contributors** - For making this project better
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License - Copyright (c) 2024 Tower Defense GameFi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
-```
-
----
-
 ## ⚠️ Disclaimer
 
-This is a testnet project built for educational and demonstration purposes. 
+This is a testnet project for educational and demonstration purposes.
 
-- 🧪 Currently deployed on **OneChain Testnet**
-- 💰 Uses **test GAME tokens** with no real value
-- 🔒 Smart contracts are **not audited**
-- 🎮 Play at your own risk
+- 🧪 Currently on **OneChain Testnet**
+- 💰 Uses **test LEAGUE tokens** (no real value)
+- 🔒 Smart contracts **not audited**
+- 🎮 Play responsibly
 - 📝 Not financial advice
-- 🎁 Free GAME tokens available via in-game faucet
+
+---
+
+## 🔗 Important Links
+
+- 🌐 **Live Demo**: Coming Soon
+- 📱 **GitHub**: [Source Code](https://github.com/yourusername/virtualz)
+- 📊 **OneChain Explorer**: [View Contracts](https://explorer.onelabs.cc)
+- 💬 **Discord**: Coming Soon
+- 🐦 **Twitter**: Coming Soon
+
+---
+
+## 🙏 Acknowledgments
+
+- **[OneChain](https://onelabs.cc)** - For an amazing blockchain platform
+- **[Sui Foundation](https://sui.io)** - For Move language and tools
+- **[Mysten Labs](https://mystenlabs.com)** - For excellent documentation
+- **Premier League** - For inspiration (unofficial tribute)
+- **Community** - For support and feedback
 
 ---
 
 <div align="center">
 
-## 🌟 Star Us!
+## 🌟 Like Bet9ja Virtual? You'll Love VIRTUALZ!
 
-If you like this project, please give it a ⭐ on GitHub!
+### **May the odds be ever in your favor!** ⚽✨
 
-### **Have fun and may fortune favor you!** 🍀✨
+Built with ❤️ on OneChain • Powered by Move • Secured by Blockchain
 
-Made with ❤️ by the Tower Defense GameFi Team
-
-[🎮 Play Now](https://tower-crash-fnix.vercel.app) • [📹 Watch Demo](https://www.youtube.com/watch?v=XD25M8ozAd8) • [⭐ Star on GitHub](https://github.com/yourusername/tower-defense-gamefi)
-
----
-
-*Built on Sui • Powered by Move • Secured by Blockchain*
+[🎮 Start Playing](#) • [📖 Read Docs](#) • [⭐ Star on GitHub](https://github.com/yourusername/virtualz)
 
 </div>

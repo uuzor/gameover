@@ -2,7 +2,7 @@
 
 [move]
 version = 3
-manifest_digest = "13A29AE9C30EF9A496C9BC50C5045E68B1D65E06D9170811563939FEB32A79FE"
+manifest_digest = "228175C99694773D3779ECEB6B008DBFB4F01A0325CAF8FFE09494E69BF1D7F4"
 deps_digest = "F8BBB0CCB2491CA29A3DF03D6F92277A4F3574266507ACD77214D37ECA3F3082"
 dependencies = [
   { id = "One", name = "One" },
@@ -21,7 +21,7 @@ dependencies = [
 ]
 
 [move.toolchain-version]
-compiler-version = "1.0.4"
+compiler-version = "1.0.6"
 edition = "2024.beta"
 flavor = "one"
 
